@@ -1,7 +1,7 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)]
 <h1 align="center">Hi 👋, I'm Alaa Abdoh</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fprogramming-skills%2F&psig=AOvVaw2VCUBEbwn1SapViAGNM73J&ust=1706096783036000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCq7sq484MDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa-abdoh&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-abdoh" /> </p>
